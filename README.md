@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Ratio LLC
 - 🌱 I’m currently learning Android, iOS
 - 📫 How to reach me: ljh28891004@gmail.com
+- 🖲 Blog : [Tistory](https://ju-hyang.tistory.com)
 
 <!--
 **JuHyang/JuHyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
