@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Android, iOS
 - 📫 How to reach me: ljh28891004@gmail.com
 - 🖲 Blog : [Tistory](https://ju-hyang.tistory.com)
+- 🧑🏻‍💻 Resume : [Resume](https://www.notion.so/6bf4203889e74615b8eacb63d43ac34c)
 
 <!--
 **JuHyang/JuHyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +25,5 @@ Here are some ideas to get you started:
 ![JuHyang's github stats](https://github-readme-stats.vercel.app/api?username=JuHyang&show_icons=true)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kkss2889)](https://solved.ac/kkss2889)
+
+
