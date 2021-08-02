@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Android, iOS
 - 📫 How to reach me: ljh28891004@gmail.com
 - 🖲 Blog : [Tistory](https://ju-hyang.tistory.com)
-- 🧑🏻‍💻 Resume : [Notion](https://www.notion.so/6bf4203889e74615b8eacb63d43ac34c)
+- 🧑🏻‍💻 Resume : [Notion](https://www.notion.so/ju-hyang/6bf4203889e74615b8eacb63d43ac34c)
 
 <!--
 **JuHyang/JuHyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
