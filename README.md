@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Ratio LLC
+- 🔭 I’m currently working on Buzzvil
 - 📫 How to reach me: ljh28891004@gmail.com
 - 🖲 Blog : [Notion](https://ju-hyang.notion.site/Hyang-s-Blog-1575e6e0bc1b4b28a68bce4a0b702e2a)
 - 🧑🏻‍💻 Resume : [Notion](https://ju-hyang.notion.site/6bf4203889e74615b8eacb63d43ac34c)
