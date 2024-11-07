@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Buzzvil
 - 📫 How to reach me: ljh28891004@gmail.com
 - 🖲 Blog : [Tistory](https://ju-hyang.tistory.com) [Notion](https://ju-hyang.notion.site/Hyang-s-Blog-1575e6e0bc1b4b28a68bce4a0b702e2a) 
-- 🧑🏻‍💻 Resume : [Notion](https://ju-hyang.notion.site/6bf4203889e74615b8eacb63d43ac34c)
+- 🧑🏻‍💻 Resume : [Notion](https://tested-yard-f21.notion.site/5fae71d9c3794e708e9e50ca2a62a000?pvs=4)
 
 <!--
 **JuHyang/JuHyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
