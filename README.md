@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Buzzvil
 - 📫 How to reach me: ljh28891004@gmail.com
-- 🖲 Blog : [Tistory](https://ju-hyang.tistory.com) [Notion](https://ju-hyang.notion.site/Hyang-s-Blog-1575e6e0bc1b4b28a68bce4a0b702e2a) 
+- 🖲 Blog : [Tistory](https://ju-hyang.tistory.com)
 - 🧑🏻‍💻 Resume : [Notion](https://tested-yard-f21.notion.site/5fae71d9c3794e708e9e50ca2a62a000?pvs=4)
 
 <!--
